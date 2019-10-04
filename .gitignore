@@ -134,7 +134,16 @@ celerybeat-schedule
 
 # Folders #
 ###########
-CVND_Projects/
+
+# CVND_Projects
+===============
+# P1
+----
+CVND_Projects/P1_Facial_Keypoints/.ipynb_checkpoints
+CVND_Projects/P1_Facial_Keypoints/data
+CVND_Projects/P1_Facial_Keypoints/misc
+
+# CVND_Exercises
+================
 CVND_Exercises/todo/
-CVND_Exercises/1_1_Image_Representation/day_night_images/
 CVND_Exercises/1_1_Image_Representation/images/
