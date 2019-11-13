@@ -34,4 +34,4 @@ The [last section](https://github.com/udacity/CVND_Localization_Exercises) inclu
 
 1. [P1_Facial_Keypoints](https://github.com/udacity/P1_Facial_Keypoints)
 
-2. ?
+2. [P1_Image_Captioning](https://github.com/udacity/CVND---Image-Captioning-Project)
