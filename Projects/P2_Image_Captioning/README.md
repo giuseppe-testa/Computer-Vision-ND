@@ -1,12 +1,11 @@
-# CVND---Image-Captioning-Project
+# Instructions from CVND---Image-Captioning-Project (original udacity repo)
 
-# Instructions  
 1. Clone this repo: https://github.com/cocodataset/cocoapi  
 ```
 git clone https://github.com/cocodataset/cocoapi.git  
 ```
 
-2. Setup the coco API (also described in the readme [here](https://github.com/cocodataset/cocoapi)) 
+2. Setup the coco API (also described in the readme [here](https://github.com/cocodataset/cocoapi))
 ```
 cd cocoapi/PythonAPI  
 make  

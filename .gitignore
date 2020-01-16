@@ -148,3 +148,11 @@ Exercises/1_1_Image_Representation/day_night_images/
 Projects/P1_Facial_Keypoints/.ipynb_checkpoints
 Projects/P1_Facial_Keypoints/data/
 Projects/P1_Facial_Keypoints/misc/
+
+# P2
+----
+Projects/P2_Image_Captioning/.ipynb_checkpoints
+Projects/P2_Image_Captioning/models/
+Projects/P2_Image_Captioning/filelist.txt
+Projects/P2_Image_Captioning/training_log.txt
+Projects/P2_Image_Captioning/vocab.pkl
